@@ -1,0 +1,10 @@
+const LOGIN = {
+    LOADDASHBOARD : "LOAD",
+    SUBMIT : "SUBMIT",
+    GET : "GET",
+    ERROR :"ERROR",
+    SUCCESS : "SUCCESS",
+    SUBMITSUCCESS : "SUBMITSUCCESS"
+}
+
+export default LOGIN;
